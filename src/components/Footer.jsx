@@ -7,7 +7,7 @@ export default function Footer() {
         <div>
           <div className="brand brand--footer">
             {/* <span className="brand__mark" aria-hidden="true" /> */}
-             <img src="/assets/logo.png" width={100} height={50} />
+             <img src="/AL_GHANI_CAR_REPAIR/assets/logo.png" width={100} height={50} />
             <span className="brand__text">Al-Ghani</span>
           </div>
           <p className="muted">

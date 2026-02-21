@@ -4,14 +4,14 @@ import Footer from "./components/Footer.jsx";
 import FAQ from "./components/FAQ.jsx";
 
 const services = [
-  { tag: "Maintenance", title: "Engine Repair", desc: "Comprehensive care to keep your vehicle running smoothly.", img: "/assets/services/er.png", },
-  { tag: "Repair", title: "Tire Repair", desc: "Fast fixes and replacement recommendations when needed.", img: "/assets/services/tr.png", },
-  { tag: "Diagnostics", title: "Clutch Repair", desc: "Accurate diagnosis and reliable clutch service.", img: "/assets/services/clutch.png", },
-  { tag: "Maintenance", title: "Battery Repair", desc: "Testing, replacement, and charging system checks.", img: "/assets/services/battery.png", },
-  { tag: "Repair", title: "Oil Change", desc: "High-quality oil and filter changes for better performance.", img: "/assets/services/oc.png", },
-  { tag: "Diagnostics", title: "System Repair", desc: "Electrical and sensor troubleshooting with modern tools.", img: "/assets/services/sys.png", },
-  { tag: "Maintenance", title: "Radiator Service", desc: "Cooling system inspection and leak prevention.", img: "/assets/services/radiator.png", },
-  { tag: "Diagnostics", title: "Brake Repair", desc: "Pads, rotors, fluids—safety-first braking service.", img: "/assets/services/break.png", },
+  { tag: "Maintenance", title: "Engine Repair", desc: "Comprehensive care to keep your vehicle running smoothly.", img: "/AL_GHANI_CAR_REPAIR/assets/services/er.png", },
+  { tag: "Repair", title: "Tire Repair", desc: "Fast fixes and replacement recommendations when needed.", img: "/AL_GHANI_CAR_REPAIR/assets/services/tr.png", },
+  { tag: "Diagnostics", title: "Clutch Repair", desc: "Accurate diagnosis and reliable clutch service.", img: "/AL_GHANI_CAR_REPAIR/assets/services/clutch.png", },
+  { tag: "Maintenance", title: "Battery Repair", desc: "Testing, replacement, and charging system checks.", img: "/AL_GHANI_CAR_REPAIR/assets/services/battery.png", },
+  { tag: "Repair", title: "Oil Change", desc: "High-quality oil and filter changes for better performance.", img: "/AL_GHANI_CAR_REPAIR/assets/services/oc.png", },
+  { tag: "Diagnostics", title: "System Repair", desc: "Electrical and sensor troubleshooting with modern tools.", img: "/AL_GHANI_CAR_REPAIR/assets/services/sys.png", },
+  { tag: "Maintenance", title: "Radiator Service", desc: "Cooling system inspection and leak prevention.", img: "/AL_GHANI_CAR_REPAIR/assets/services/radiator.png", },
+  { tag: "Diagnostics", title: "Brake Repair", desc: "Pads, rotors, fluids—safety-first braking service.", img: "/AL_GHANI_CAR_REPAIR/assets/services/break.png", },
 ];
 
 const steps = [
@@ -65,7 +65,7 @@ export default function App() {
             </div>
 
             <div className="hero__media">
-              <img className="hero__img" src="/assets/hero.png" alt="Orange sports car" />
+              <img className="hero__img" src="/AL_GHANI_CAR_REPAIR/assets/hero.png" alt="Orange sports car" />
             </div>
           </div>
         </section>
@@ -102,7 +102,7 @@ export default function App() {
             </div>
 
             <div className="aboutMedia">
-              <img className="aboutMedia__img" src="/assets/mechanic.png" alt="Mechanics working on a car" />
+              <img className="aboutMedia__img" src="/AL_GHANI_CAR_REPAIR/assets/mechanic.png" alt="Mechanics working on a car" />
               <div className="aboutMedia__badge">
                 <div className="badge__big">95%</div>
                 <div className="badge__small muted">Quality Assurance</div>
@@ -200,7 +200,7 @@ export default function App() {
             </div>
 
             <div className="whyMedia">
-              <img className="whyMedia__img" src="/assets/redcar.png" alt="Red sports car" />
+              <img className="whyMedia__img" src="/AL_GHANI_CAR_REPAIR/assets/redcar.png" alt="Red sports car" />
             </div>
           </div>
         </section>

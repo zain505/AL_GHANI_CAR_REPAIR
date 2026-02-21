@@ -27,7 +27,7 @@ export default function Header() {
     <header className="header">
       <div className="container header__inner">
         <a className="brand" href="#home" onClick={(e) => { e.preventDefault(); onNavClick("#home"); }}>
-          <img src="/assets/logo.png" width={100} height={50} />
+          <img src="/AL_GHANI_CAR_REPAIR/assets/logo.png" width={100} height={50} />
           {/* <span className="brand__mark" aria-hidden="true" /> */}
           <span className="brand__text">Al-Ghani</span>
         </a>
